@@ -2,7 +2,7 @@
 /**
  * Plugin Name:  Next Step for LearnDash
  * Plugin URI: https://wptrat.com/learndash-next-step /
- * Description:  Next Step for LearnDash is the best way to forward your students from the page where the course link is directly to the next step in the course to be completed.
+ * Description:  Next Step for LearnDash is the best way to change course link for enrolled students and forward them direct to the next step in the course to complete.
  * Author: Luis Rock
  * Author URI: https://wptrat.com/
  * Version: 1.0.0

@@ -1,6 +1,5 @@
 <?php
 
-//Define options (keys) and fiels vitals (values)
 $options_array = [
     'trns_everywhere' => [
         'type' => 'checkbox',
@@ -9,7 +8,7 @@ $options_array = [
         'description'=> 'Make this plugin work everywhere on the site for all courses user is enrolled in',
         'label' => '',
         'obs' => '',
-        'final' => 'If not checked, the plugin will work only when courses listed by the [ld_profile] shortcode.',
+        'final' => 'If not checked, the plugin will work only when courses are listed by the [ld_profile] shortcode.',
         'order' => 1,
     ],
 ];

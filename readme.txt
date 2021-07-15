@@ -1,6 +1,6 @@
 ===  Next Step for LearnDash  ===
 Contributors: WPTrat, Luis Rock
-Tags:   ,   
+Tags: learndash, education, elearning, lms, learning   
 Requires at least: 5.0
 Tested up to: 5.7
 Requires PHP: 5.6
@@ -8,10 +8,10 @@ Stable tag: 1.0.0
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-**Next Step for LearnDash is the best way to forward your students from the page where the course link is directly to the next step in the course to be completed.
+**Change course link for enrolled students and forward them direct to the next step in the course to complete.
 
 == Description ==
-Next Step for LearnDash is the best way to forward your students from the page where the course link is directly to the next step in the course to be completed.
+Change course link for enrolled students and forward them direct to the next step in the course to complete. Make enrolled students skip the course front page!
 
 Main features:
 
@@ -27,7 +27,7 @@ Main features:
 == Frequently Asked Questions ==
 = How does this plugin do its magic? =
 
-Next Step for LearnDash makes use of a WordPress filter to substitute the course link for the next step (lesson, topic...) link on the same course, as long as user is progressing in it. 
+Next Step for LearnDash makes use of a WordPress filter to substitute the course link for the next step (lesson, topic...) link on the same course, as long as user is enrolled and progressing in it. 
 
 = Does this plugin insert or delete anything from the database? =
 
@@ -41,6 +41,9 @@ That's the goal, but we cannot be sure. There are so many themes! If you have an
 
 * We are open to your suggestions and feedback. Thank you for using or trying out one of our plugins! Just drop us an email with your suggestion.
 
+== Screenshots ==
+1. Admin menu settings page
+2. Frontend showing how plugin works
 
 == Changelog ==
 = 1.0.0 = 
